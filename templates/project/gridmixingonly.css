@@ -3,7 +3,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/*  Created on : 06.05.2016, 14:41:06 Author     : unrz59
+/*  Created on : 06.05.2016, 15:13:46 Author     : unrz59
 */
 .container { margin-right: auto; margin-left: auto; padding-left: 15px; padding-right: 15px; }
 .container:before, .container:after { content: " "; display: table; }
